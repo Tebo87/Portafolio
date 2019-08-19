@@ -1,0 +1,72 @@
+body {
+    font-family: 'Handlee', cursive;
+    font-size: 20px;
+  }
+
+  .navbar-brand {
+    font-family: 'Carter One', cursive;
+      color: #ffffff;
+      font-size: 40px;
+    
+  }
+
+  
+  
+  .banner {
+    background-image: url('../img/code-coding-connection-943096.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    min-height: 110vh;
+    background-position: center;
+    padding: 250px 0 200px;
+    
+  }
+
+  h1 {
+    font-family: 'Lobster', cursive;
+    text-shadow: -4px 3px 0 red, -20px 15px 0 blue;
+    padding-top: 5%;
+  }
+
+  .description p {
+    font-family: 'Lobster', cursive;
+  }
+
+  h2 {
+    font-family: 'Lobster', cursive;
+  }
+
+  .fab, .fas {
+      font-size: 100px;
+  }
+
+  .carousel-indicators {
+    top: 50px;
+  }
+  
+  .carousel-indicators li {
+     border-radius: 50%;
+     height: 10px;
+     width: 10px;
+  }
+
+  .card {
+    display: inline-block;
+    width: 100%;
+    max-width: 100%;
+    
+  }
+
+  .footer i {
+  font-size: 60px;
+  display: inline-block;
+  }
+
+  .footer h2 {
+    font-size: 60px;
+  }
+
+.card-title {
+  font-family: 'Lobster', cursive;
+}
