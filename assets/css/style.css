@@ -12,14 +12,11 @@ body {
 
   
   
-  .banner {
+  .jumbotron {
     background-image: url('../img/code-coding-connection-943096.jpg');
-    background-repeat: no-repeat;
     background-size: cover;
-    position: relative;
-    min-height: 110vh;
-    background-position: center;
-    padding: 250px 0 200px;
+  
+
     
   }
 
